@@ -1,8 +1,9 @@
 .DS_Store
 /node_modules/
+package-lock.json
 yarn.lock
 yarn-error.log
-package-lock.json
+
 # build directory
 /public/
 /public/.DS_Store
