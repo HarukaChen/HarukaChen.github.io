@@ -8,6 +8,6 @@ git commit -m "[update] update blog"
 
 # git push
 
-git push -f origin master
+git push 
 
 echo "finished"
