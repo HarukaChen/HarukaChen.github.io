@@ -1,8 +1,8 @@
 .DS_Store
 /node_modules/
 yarn.lock
-yarn.error
-
+yarn-error
+package-lock
 # build directory
 /public/
 /public/.DS_Store
