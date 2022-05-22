@@ -1,5 +1,5 @@
 ---
-title: 基于GitHub Pages的Blog维护-LTS
+title: 基于GitHub Pages 的Blog 维护-LTS
 date: 2021-10-20
 sidebar: "auto"
 categories:
